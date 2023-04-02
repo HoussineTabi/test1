@@ -1,2 +1,1 @@
-# test1
-this is a test repository
+hi this is a repository to work from pc
